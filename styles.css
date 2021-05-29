@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&family=Oswald&family=Raleway&family=Roboto&display=swap');
+*
+{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+/* Barra de navegacion */
+#barra
+{
+    background-color: black;
+}
+#items a
+{
+    color: blueviolet;
+    display: inline;
+    align-content: space-between;
+}
+/* Introduccion */
+.imagen
+{
+    width: 100%;
+    height: 500px;
+}
+.titulo1
+{
+    border-top: 50px solid blueviolet;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 80;
+}
+.titulo2
+{
+    border-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 80;
+}
+.introducion p
+{
+   text-align: center;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
