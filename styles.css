@@ -43,6 +43,175 @@
    text-align: center;
    font-family: 'Montserrat', sans-serif;
    font-size: 20px;
-   margin-top: 50px;
-   margin-bottom: 50px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+/* Informacion Extra */
+.Articulo1
+{
+ width: 100%;
+ height: 400px;
+ background-color: blueviolet;
+}
+.Articulo1 img
+{
+    width: 500px;
+    height: 100%;
+    margin-left: 0;
+    float: left;
+    margin-right: 30px;
+}
+.Articulo1 p
+{
+    margin: 30px 25px 30px 25px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+}
+.titulo3
+{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.Articulo2
+{
+ width: 100%;
+ height: 400px;
+ background-color: black;
+}
+.Articulo2 img
+{
+    width: 500px;
+    height: 100%;
+    margin-left: 0;
+    float: right;
+}
+.Articulo2 p
+{
+    color: blueviolet;
+    margin: 30px 25px 30px 25px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.Articulo3
+{
+ width: 100%;
+ height: 400px;
+ background-color: blueviolet;
+}
+.Articulo3 img
+{
+    width: 500px;
+    height: 100%;
+    margin-left: 0;
+    float: left;
+    margin-right: 30px;
+}
+.Articulo3 p
+{
+    margin: 30px 25px 30px 25px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.Articulo4
+{
+ width: 100%;
+ height: 400px;
+ background-color: black;
+}
+.Articulo4 img
+{
+    width: 500px;
+    height: 100%;
+    margin-left: 0;
+    float: right;
+}
+.Articulo4 p
+{
+    color: blueviolet;
+    margin: 30px 25px 30px 25px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+/* Pie de pagina*/
+footer
+{
+    width: 100%;
+    background-color:blueviolet;
+    color: white;
+    padding: 40px;
+}
+.contenedor-footer
+{
+    display: flex;
+    justify-content: space-between;
+}
+.colum1
+{
+    max-width: 350px;
+}
+.colum1 h4
+{
+    font-size: 22px;
+}
+.colum1 p
+{
+    font-size: 18px;
+    color: white;
+    margin: 20px 15px 20px 15px
+}
+.colum2
+{
+    max-width: 350px;
+}
+.colum2 h5
+{
+    font-size: 22px;
+}
+.row
+{
+    margin-top: 20px;
+    display: flex;
+}
+.row img
+{
+   width: 55px;
+   height: 40px;
+}
+.row label
+{
+    color:white;
+}
+.colum3
+{
+    max-width: 350px;
+}
+.colum3 h6
+{
+   font-size: 22px;
+}
+.row2
+{
+   margin-top: 20px;
+}
+.row2 img
+{
+   width: 40px;
+   height: 40px;
+}
+.row2 label
+{
+    margin-top: 10px;
+    margin-left: 20px;
 }
