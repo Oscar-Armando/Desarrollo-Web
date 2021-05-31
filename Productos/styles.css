@@ -220,6 +220,20 @@
     max-width: 350px;
     max-height: 350px;
 }
+#paginas
+{
+    margin: 20px 30px 20px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont
+{
+    width: 100px;
+    height: 50px;
+    background-color: blueviolet;
+    color: white;
+}
 /* Pie de pagina*/
 footer
 {
