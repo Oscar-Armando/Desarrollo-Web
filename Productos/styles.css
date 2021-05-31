@@ -54,9 +54,117 @@
     justify-content: center;
     display: flex;
 }
+/* Grid productos*/
+#conatainergrid
+{
+    margin: 50px 30px 20px 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    column-gap: 30px;
+    row-gap: 30px;
+}
 
-
-
+.box1 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box1 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box2 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box2 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box3 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box3 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box4 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box4 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box5 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box5 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box6 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box6 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box7 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box7 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box8 h1
+{
+    font-size: 18px;
+    text-align: center;
+}
+.box8 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box9 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box10 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box11 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
+.box12 img
+{
+    max-width: 350px;
+    max-height: 350px;
+}
 /* Pie de pagina*/
 footer
 {
