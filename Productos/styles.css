@@ -1,0 +1,134 @@
+*
+{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+/* Barra de navegacion */
+#barra
+{
+    background-color: white;
+    padding: 10px 20px;
+    margin-bottom: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+#items a
+{
+    color: blueviolet;
+    display: inline;
+    align-content: space-between;
+}
+/* Barra de busqueda */
+.container1
+{
+    margin-top: 90px;
+}
+.container1 h1
+{
+   margin: 40px 30px 20px 30px;
+   font-size: 60px;
+   text-align: center;
+}
+.btn
+{
+    width: 100px;
+    height: 50px;
+    background-color: blueviolet;
+    margin: 10px 20px 10px 20px;
+    color: white;
+}
+.barra-bs
+{
+    width: 500px;
+    height: 50px;
+    border: 2px solid grey;
+    margin: 10px 20px 10px 20px;
+}
+#busqueda
+{
+    margin: 20px 30px 20px 30px;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+/* Pie de pagina*/
+footer
+{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+.contenedor-footer
+{
+    display: flex;
+    justify-content: space-between;
+}
+.colum1
+{
+    max-width: 350px;
+}
+.colum1 h4
+{
+    font-size: 22px;
+}
+.colum1 p
+{
+    font-size: 18px;
+    color: white;
+    margin: 20px 15px 20px 15px
+}
+.colum2
+{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.colum2 h5
+{
+    font-size: 22px;
+}
+.row
+{
+    margin-top: 20px;
+}
+.row img
+{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    float:left;
+}
+.row label
+{
+    font-size: 20px;
+}
+.colum3
+{
+    max-width: 350px;
+}
+.colum3 h6
+{
+   font-size: 22px;
+}
+.row2
+{
+   margin-top: 20px;
+}
+.row2 img
+{
+   width: 40px;
+   height: 40px;
+   float: left;
+   margin-right: 10px;
+}
+.row2 label
+{
+    margin-top: 10px;
+}
